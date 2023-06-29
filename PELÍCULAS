@@ -1,9 +1,10 @@
-#EXTM3U 
- #EXTINF:-1, Scary Movie 1
-https://upstream.to/ploq0g06hgcd
+#EXTM3U
 
- #EXTINF:-1 group-title="PELICULAS", Scary Movie 2
-https://archive.org/details/scm-0-v-2-18-ca-d
+EXTINF:-1 group-title="Saga Scary Movie", Scary Movie 1
+ https://upstream.to/ploq0g06hgcd 
 
- #EXTINF:-1 group-title="PELICULAS", Intensamente  
-https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+
+EXTINF:-1 group-title="Saga Scary Movie", Scary Movie 2
+https://upstream.to/nfz0apk7xfoc
+
+ 
