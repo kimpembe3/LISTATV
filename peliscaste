@@ -1,0 +1,16 @@
+#EXTM3U 
+ #EXTINF:-, Scary Movie 1
+https://upstream.to/ploq0g06hgcd
+
+#EXTINF:-, Scary Movie 2
+https://upstream.to/nfz0apk7xfoc
+
+
+ #EXTINF:- group-title="Saga Scary Movie", Scary Movie 1
+https://upstream.to/embed-ploq0g06hgcd.html
+
+ #EXTINF:- group-title="Saga Scary Movie", Scary Movie 2
+ https://upstream.to/embed-nfz0apk7xfoc.html
+
+ #EXTINF:- group-title="Saga Scary Movie", Scary Movie 3
+ https://upstream.to/embed-pq89s0lnnqag.html
