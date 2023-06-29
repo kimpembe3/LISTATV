@@ -1,0 +1,13 @@
+#EXTM3U 
+ #EXTINF:-1, Scary Movie 1
+https://upstream.to/ploq0g06hgcd
+
+#EXTINF:-1, Scary Movie 2
+https://upstream.to/nfz0apk7xfoc
+
+
+ #EXTINF:-1 group-title="PELICULAS", Deadpool  
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv 
+
+ #EXTINF:-1 group-title="PELICULAS", Intensamente  
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
