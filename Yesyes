@@ -1,0 +1,25 @@
+      {
+     "name": "Películas Castellano",
+    "author": "Antonio",
+    "image": "https://ibb.co/DKQpH6B",
+    "groups": [{
+                         "name": "Saga Scary Movie",
+            "image": "https://ibb.co/VMctF2K",
+            "info": "",
+            "stations": [{
+                }]
+                   },{    
+"name": "Estrenos de Cine",
+            "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
+            "info": "",
+               "stations": [{
+                       "name": "Indiana Jones y el dial del destino (2023) TS",
+                    "image": "https://www.elseptimoarte.net/carteles/341/indiana_jones_y_el_dial_del_destino_98215.jpg",
+                    "url": "https://vidmoly.me/w/7ese75x4r87c",
+                    "isHost":"true"
+                        },{
+                    "name": "Transformers: El despertar de las bestias (2023) TS-Latino",
+                    "image": "https://www.elseptimoarte.net/carteles/341/transformers_el_despertar_de_las_bestias_97599.jpg",
+                    "url": "https://upstream.to/y1m2g9ypzsca",
+                    "isHost":"true"
+                        }
